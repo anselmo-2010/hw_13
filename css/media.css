@@ -1,0 +1,73 @@
+
+@media screen and (max-width: 680px){
+.items .item{
+	width: 50%;
+	background: #f6f6f6;
+	margin-bottom: 30px;
+}
+section{
+	background: #fff;
+	height: auto;
+}
+.boxes .box{
+	width: 50%;
+	margin-bottom: 30px;
+}
+.text-2 p{
+	line-height: 30px;
+}
+.text-3 p{
+	line-height: 25px;
+}
+footer{
+	padding: 0;
+}
+
+@media screen and (max-width: 480px){
+.items .item{
+	width: 70%;
+	background: #f6f6f6;
+	margin-bottom: 30px;
+	margin-left: 30px;
+}
+section{
+	background: #fff;
+	height: auto;
+}
+.boxes .box{
+	width: 70%;
+	margin-bottom: 30px;
+	margin-left: 50px;
+}
+.main-pic h1{
+	font-size: 2em; /*---40px/14px---*/
+}
+.text-2 h2{
+	font-size: 2em;
+}
+.text-2 p{
+	font-size: 20px;
+}
+.text-3 h2{
+	font-size:2em;}
+.text-3 p{
+	font-size: 20px;
+}
+.text-3{
+	border: none;
+}
+footer p {
+	margin-left: 10px;
+}
+}
+
+@media screen and (max-width: 980px){
+
+}
+.text-2 p{
+	line-height: 25px;
+}
+.text-3 p{
+	line-height: 25px;
+}
+}
